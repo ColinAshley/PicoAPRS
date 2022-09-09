@@ -30,6 +30,7 @@ Download all the files to your local machine.
 
 - git clone https://github.com/ColinAshley/PicoAPRS
 - cd PicoAPRS
+- Edit main.py to add your Callsign, Wifi Details and APRS API Key
 - Use Thonny Editor/Interface to load to Pi Pico
 
 ## Usage
